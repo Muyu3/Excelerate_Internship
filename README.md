@@ -5,9 +5,9 @@
 This project was developed during a one-month **Data Visualization Early Remote Internship** at Excelerate. The core objective was to utilize data analysis and visualization techniques to create a robust system for tracking and enhancing the organization's outreach performance. The final output included a comprehensive, interactive dashboard and data-driven strategic recommendations.
 
 **Key Tools & Technologies:**
-* (Placeholder: Insert Data Visualization Tool, e.g., **Tableau / Power BI**)
-* (Placeholder: Insert Data Analysis Tool, e.g., **Python / Pandas / Excel**)
-* (Placeholder: Insert Database/Source, e.g., **SQL / CSV Data**)
+*  Data Visualization Tool, **Tableau | Power BI**)
+*  Data Analysis Tool, e.g., **Python | Pandas | Excel**)
+*  Database/Source, **SQL | CSV Data**)
 
 ---
 
