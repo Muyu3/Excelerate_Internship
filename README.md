@@ -31,6 +31,9 @@ The project workflow was divided into three distinct phases:
     * Designed and built a **user-friendly, dynamic Outreach Performance Dashboard**.
     * Integrated critical **Key Performance Indicators (KPIs)** such as conversion rates, engagement by channel, and geographical impact.
     * Implemented **filtering and drill-down capabilities** to allow stakeholders to perform deep-dive analysis.
+ 
+    * 
+<img width="1003" height="559" alt="final_dashboard_excelerate" src="https://github.com/user-attachments/assets/d04f6484-7db3-4ace-8a45-7f6a946f7ac3" />
 
 ### Phase 3: Strategy and Presentation
 
