@@ -40,7 +40,7 @@ The project workflow was divided into three distinct phases:
 * **Presentation & Delivery:**
     * Developed and delivered a professional presentation to key stakeholders.
     * Summary covered project methodology, a demonstration of the dashboard, and a clear articulation of the strategic findings.
-
+ 7
 ---
 
 ## ✨ Project Outcome and Impact
